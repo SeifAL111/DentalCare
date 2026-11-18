@@ -1,0 +1,103 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.V100
+.com.apple.timemachine.donotpresent
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDEs — IntelliJ / JetBrains
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# IDEs — VS Code / Cursor
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Eclipse / STS
+.classpath
+.project
+.settings/
+bin/
+
+# Java / Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.properties.bak
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/wrapper/maven-wrapper.properties~
+
+# Spring Boot
+*.log
+spring.log
+hs_err_pid*
+replay_pid*
+
+# Node / Angular
+node_modules/
+dist/
+tmp/
+out-tsc/
+.angular/
+.sass-cache/
+coverage/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+*.tsbuildinfo
+
+# Environment and secrets
+.env
+.env.local
+.env.*.local
+!.env.example
+*.pem
+*.p12
+*.jks
+secrets/
+credentials/
+
+# Docker
+docker-data/
+
+# H2 local databases
+*.db
+*.mv.db
+*.trace.db
+
+# Test / reports
+test-output/
+surefire-reports/
+failsafe-reports/
+
+# OS / misc
+*.swp
+*.swo
+*~
+.cache/

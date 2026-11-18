@@ -1,0 +1,7 @@
+# DentalCare — Docker Compose
+# Séance 5 focuses on Eureka + API Gateway (run with Maven locally).
+# Full containerisation (services, Keycloak, RabbitMQ, databases) is planned for Séance 9.
+#
+# Placeholder kept so the repository structure required by the course remains valid.
+
+services: {}
